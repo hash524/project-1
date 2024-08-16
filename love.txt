@@ -3,3 +3,12 @@ abdul  hashim
 The quick brwon fox jumps over the  lazy dog.
 do you love me
 kamal is a good boy.
+
+
+web development 
+css
+javscript 
+git hub
+ sass
+tailwand
+
